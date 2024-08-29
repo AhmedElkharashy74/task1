@@ -1,0 +1,30 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "task 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "meow",
+    "start": "nodemon .i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedElkharashy74/task1.git"
+  },
+  "author": "AhmedElkharahy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedElkharashy74/task1/issues"
+  },
+  "homepage": "https://github.com/AhmedElkharashy74/task1#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.0",
+    "nodemon": "^3.1.4"
+  }
+}
